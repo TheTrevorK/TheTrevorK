@@ -6,7 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
    <p align="left">
       <a href="linkedin.com/in/trevor-khan53">
-         <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/?color=%23E05D44&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
+         <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
       <a href="linkedin.com/in/trevor-khan53">
          <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=Resume&logo=people&logoColor=white&style=for-the-badge&labelColor=274e13"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
