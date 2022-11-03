@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="linkedin.com/in/trevor-khan53">
          <img alt="LinkedIn Profile" title="LinkedIn Profile" src=https://custom-icon-badges.demolab.com/badge/profile-blue.svg?color=2986cc&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Github Repo" title="Github Repo" src=https://custom-icon-badges.demolab.com/badge/repo-blue.svg?color=274e13&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
+         <img alt="Github Repo" title="Github Repo" src=https://custom-icon-badges.demolab.com/badge/repo-blue.svg?color=274e13&label=Github Repo&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
 
    </p>
    
