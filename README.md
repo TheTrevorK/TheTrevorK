@@ -33,10 +33,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Projects
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-
-
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [SQL Project](https://github.com/TheTrevorK/PortfolioProjects/blob/main/Covid%20Project.sql)
 #
 
 <details>
