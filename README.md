@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="linkedin.com/in/trevor-khan53">
          <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
       <a href="linkedin.com/in/trevor-khan53">
-         <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=Resume&logo=people&logoColor=white&style=for-the-badge&labelColor=274e13"/></a> 
+         <img alt="LinkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers?color=%23E05D44&label=Resume&logo=people&logoColor=white&style=for-the-badge&labelColor=274e13"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheTrevorK?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
