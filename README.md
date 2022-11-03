@@ -4,6 +4,14 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
+
+[<img align="left" alt="Trevor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TheTrevorK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
+
+
+[Github]: https://github.com/TheTrevorK/
+[linkedin]: https://linkedin.com/in/trevor-khan53
+
    <p align="left">
       <a href="linkedin.com/in/trevor-khan53">
          <img alt="LinkedIn Profile" title="LinkedIn Profile" src=https://custom-icon-badges.demolab.com/badge/profile-blue.svg?color=2986cc&label=LinkedIn Profile&logo=people&logoColor=white&style=for-the-badge&labelColor=2986cc"/></a> 
