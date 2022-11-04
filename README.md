@@ -37,8 +37,9 @@ I'm an  aspiring Data Analyst with a Masters in Advanced Data Analytics. Always 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [SQL Project](https://github.com/TheTrevorK/PortfolioProjects/blob/main/Covid%20Project.sql)
+  - - [Python Project](https://github.com/TheTrevorK/PortfolioProjects/blob/main/)
 #
 
 <details>
  <summary><h3> Trevor's Coding Journey</h3></summary>
-   Started my journey by obtaining a bachelors of science in biology with the intent of going the medical school route. Plans changed and instead I chose to focus on becoming a Data Analyst. I recently completed my Masters in Advanced Data Analytics. The skills learned in obtaining my masters included SQL, Python, SAS Enterprise Miner, R, and Tableau. This led me to having a well rounded starting point to continue to further my skills.
+   Started my journey by obtaining a bachelors of science in biology with the intent of going the medical school route. Plans changed and instead I chose to focus on becoming a Data Analyst. I recently completed my Masters in Advanced Data Analytics. The skills learned in obtaining my masters included SQL, Python, SAS Enterprise Miner, R, and Tableau. This led me to having a well rounded starting point to continue to further my skills. While in school, I worked on personal projects using mainly python and sql to continue honing my skills.
