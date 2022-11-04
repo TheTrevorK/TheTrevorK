@@ -2,7 +2,7 @@
 
 **Data Analyst**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm an  aspiring Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue my learning.
 
 
    <p align="left">
@@ -41,4 +41,4 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <details>
  <summary><h3> Trevor's Coding Journey</h3></summary>
-   About me paragraph
+   Started my journey by obtaining a bachelors of science in biology with the intent of going the medical school route. Plans changed and instead I chose to focus on becoming a Data Analyst. I recently completed my Masters in Advanced Data Analytics. The skills learned in obtaining my masters included SQL, Python, SAS Enterprise Miner, R, and Tableau. This led me to having a well rounded starting point to continue to further my skills.
