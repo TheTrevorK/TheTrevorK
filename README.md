@@ -36,9 +36,9 @@ I'm an  aspiring Data Analyst with a Masters in Advanced Data Analytics. Always 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [SQL Project](https://github.com/TheTrevorK/PortfolioProjects/blob/main/Covid%20Project.sql)
   - [Tableau Project](https://github.com/TheTrevorK/Tableau-Project)
   - [Python Project](https://github.com/TheTrevorK/Python-Project)
+  - - [SQL Project](https://github.com/TheTrevorK/PortfolioProjects/blob/main/Covid%20Project.sql)
 #
 
 <details>
