@@ -2,7 +2,7 @@
 
 **Data Analyst**
 
-I'm an  aspiring Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue my learning.
+I'm an job seeking Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue learning.
 
 
    <p align="left">
