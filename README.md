@@ -1,4 +1,4 @@
-# TheTrevorK
+# Trevor Khan
 
 **Data Analyst**
 
