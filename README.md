@@ -37,7 +37,7 @@ I'm an job seeking Data Analyst with a Masters in Advanced Data Analytics. Alway
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Tableau Project](https://github.com/TheTrevorK/Tableau-Project)
-  - [Python Project](https://github.com/TheTrevorK/Python-Project)
+  - [Python Projects](https://github.com/TheTrevorK/Python-Project)
   - [SQL Project](https://github.com/TheTrevorK/SQL-Project)
 #
 
