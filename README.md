@@ -2,7 +2,7 @@
 
 **Data Analyst**
 
-I'm an job seeking Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue learning. Below you can see some of the different projects I have worked on for my Master's program as well as projects I have done on the side.
+I'm an job seeking Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue my learning. Below you can see some of the different projects I have worked on for my Master's program as well as projects I have done on the side.
 
 
    <p align="left">
