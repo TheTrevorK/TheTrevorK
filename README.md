@@ -2,7 +2,8 @@
 
 **Data Analyst**
 
-I'm an job seeking Data Analyst with a Masters in Advanced Data Analytics. Always seeking to continue my learning. Below you can see some of the different projects I have worked on for my Master's program as well as projects I have done on the side.
+I am currently completing my Masters of Science in Advanced Data Analytics. I have experience using Tableau, SQL, Python, R, Excel, and SAS Enterprise Miner. Always interested in learning new tools to continue my learning knowledge. I am looking for a position as a Data Analyst to where I can use my learned knowledge to benefit the company to the best of my abilities. I am a quick learner and a hard work as is evident in completing my Master's degree in only a year while maintaining a 4.0 GPA in the program. Always seeking to continue my learning. 
+Below you can see some of the different projects I have worked on for my Master's program as well as projects I have done on the side.
 
 
    <p align="left">
