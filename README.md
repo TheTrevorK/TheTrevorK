@@ -41,6 +41,7 @@ Below you can see some of the different projects I have worked on for my Master'
   - [Tableau Project](https://github.com/TheTrevorK/Tableau-Project)
   - [Python Projects](https://github.com/TheTrevorK/Python-Project)
   - [SQL Project](https://github.com/TheTrevorK/SQL-Project)
+  - [Portfolio Website](https://thetrevork.github.io/)
 #
 
 <details>
