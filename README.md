@@ -36,7 +36,7 @@ Detail-oriented Junior Data Analyst with expertise in SQL, Python, and Tableau. 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Project Breakdown</b>
   - [Tableau Project](https://github.com/TheTrevorK/Tableau-Project)
   - [Python Projects](https://github.com/TheTrevorK/Python-Project)
   - [SQL Project](https://github.com/TheTrevorK/SQL-Project)
